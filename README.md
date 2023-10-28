@@ -1,7 +1,16 @@
-### Hi there 👋
+### In-the-trenches senior systems engineer, expert in macOS Enterprise Mobility Management (EMM / MDM) in mixed environments.
+
+Jamf and VMWare certified Senior System Egnieer with 10+ years of Mobile Device Management experience and 28+ years of IT experience in general.
+
+Proven history of leveraging personnel strengths and the latest technologies to realize enterprise-wide process improvements.
+- - -
+
+- 🔭 I’m currently working on ...driving macOS acceptance within enterprise companies
+- 🌱 I’m currently learning ...how complicated that can be
+- ⚡ Fun fact: ...Passionate motorcyclist
 
 <!--
-**xvision-solutions/xvision-solutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mueller-mario/mueller-mario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
