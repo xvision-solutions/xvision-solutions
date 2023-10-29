@@ -1,4 +1,4 @@
-### In-the-trenches senior systems engineer, expert in macOS Enterprise Mobility Management (EMM / MDM) in mixed environments.
+### ICT senior systems engineer, expert in macOS Enterprise Mobility Management (EMM / MDM) in mixed environments.
 
 Jamf and VMWare certified Senior System Egnieer with 10+ years of Mobile Device Management experience and 28+ years of IT experience in general.
 
