@@ -5,9 +5,12 @@ Jamf and VMWare certified Senior System Egnieer with 10+ years of Mobile Device 
 Proven history of leveraging personnel strengths and the latest technologies to realize enterprise-wide process improvements.
 - - -
 
-- 🔭 I’m currently working on ...driving macOS acceptance within enterprise companies
-- 🌱 I’m currently learning ...how complicated that can be
-- ⚡ Fun fact: ...Passionate motorcyclist
+- 🔭 I’m currently working on ... driving macOS acceptance within enterprise companies
+- 🌱 I’m currently learning ... how complicated that can be
+- ⚡ Fun fact: ... Passionate motorcyclist
+
+- 🤔 I’m looking for help with ... with coding in different languages like javascript, c# or dart
+- 💬 Ask me about ... all what you want to know about me
 
 <!--
 **mueller-mario/mueller-mario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
