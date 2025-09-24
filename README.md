@@ -9,7 +9,7 @@ Proven history of leveraging personnel strengths and the latest technologies to 
 - 🌱 I’m currently learning ... how complicated that can be
 - ⚡ Fun fact: ... Passionate motorcyclist
 
-- 🤔 I’m looking for help with ... with coding in different languages like javascript, c# or dart
+- 🤔 I’m looking for help with ... with coding in different languages like SWIFT, SWIFTUI, JavaScript wiuth REACT Native...
 - 💬 Ask me about ... all what you want to know about me
 
 <!--
